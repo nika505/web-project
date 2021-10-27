@@ -103,6 +103,7 @@ a{
     padding-top: 43px;
 }
 @media screen and (max-width: 375px){
+    @media screen and (max-width: 375px){
     body{
         width: 375px;
     }
@@ -114,4 +115,17 @@ a{
     .learn-more{
         margin-top: 30px;
     }
+    .learn-more1{
+        position: relative;
+        bottom: 149px;
+    }
+    .learn-more2{
+        position: relative;
+        bottom: 150px;
+    }
+    .learn-more3{
+        position: relative;
+        bottom: 147.11px;
+    }
+}
 }
