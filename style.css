@@ -72,9 +72,9 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    position: absolute;
-    bottom: 2.813rem;
-    margin-left: 3.198rem;
+    align-items: center;
+    margin-top: -10em;
+    margin-left: 2em;
     width:140.53px;
     height: 45.80px;
     border:1px white solid;
