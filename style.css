@@ -8,7 +8,8 @@ body{
 }
 .container{
     display: flex;
-    margin:163.78px 260.78px 131.65px 260.33px;
+    justify-content:center;
+    align-items:center;
     height: 100vh;
 }
 .sedans{
